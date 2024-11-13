@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: hotstar
-        image: pavan73384/hotstar:latest
+        image: pavan73384/ekart:latest
         ports:
         - containerPort: 3000
 
